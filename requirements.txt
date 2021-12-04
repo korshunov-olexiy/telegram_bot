@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.2.0
+python-telegram-bot==13.8.1
+selenium==4.1.0
+validators==0.18.2
